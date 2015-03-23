@@ -1,1 +1,3 @@
-这是一个基于控制台的扫雷游戏
+# Mine
+
+This is a game!!
