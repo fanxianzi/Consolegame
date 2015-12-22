@@ -1,3 +1,3 @@
 # Mine
 
-This is a game!!
+There have two games~
